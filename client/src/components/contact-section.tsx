@@ -110,8 +110,21 @@ export default function ContactSection() {
                 const bgColorClass = `bg-${info.color}/10`;
                 const textColorClass = `text-${info.color}`;
 
-                return (
-                  <div key={index} className="flex items-center gap-4">
+                const getContactLink = () => {
+                  if (info.label === "Phone") {
+                    return `tel:+91${info.value.replace(/\D/g, '')}`;
+                  } else if (info.label === "Email") {
+                    return `mailto:${info.value}`;
+                  } else if (info.label === "LinkedIn") {
+                    return `https://${info.value}`;
+                  }
+                  return null;
+                };
+
+                const contactLink = getContactLink();
+
+                const content = (
+                  <div className="flex items-center gap-4">
                     <div className={`w-12 h-12 ${bgColorClass} rounded-lg flex items-center justify-center`}>
                       <IconComponent className={`${textColorClass} w-6 h-6`} />
                     </div>
@@ -119,6 +132,25 @@ export default function ContactSection() {
                       <div className="font-medium text-slate-900">{info.label}</div>
                       <div className="text-slate-600">{info.value}</div>
                     </div>
+                  </div>
+                );
+
+                return (
+                  <div key={index}>
+                    {contactLink ? (
+                      <a
+                        href={contactLink}
+                        target={info.label === "LinkedIn" ? "_blank" : undefined}
+                        rel={info.label === "LinkedIn" ? "noopener noreferrer" : undefined}
+                        className="block hover:bg-slate-50 p-2 rounded-lg transition-colors duration-200"
+                      >
+                        {content}
+                      </a>
+                    ) : (
+                      <div className="p-2">
+                        {content}
+                      </div>
+                    )}
                   </div>
                 );
               })}

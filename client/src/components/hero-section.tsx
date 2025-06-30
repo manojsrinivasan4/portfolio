@@ -57,14 +57,14 @@ export default function HeroSection() {
                 <MapPin className="w-4 h-4 text-primary" />
                 <span>Bengaluru, Karnataka, India</span>
               </div>
-              <div className="flex items-center gap-2">
+              <a href="tel:+919080363287" className="flex items-center gap-2 hover:text-primary transition-colors duration-200">
                 <Phone className="w-4 h-4 text-primary" />
                 <span>9080363287</span>
-              </div>
-              <div className="flex items-center gap-2">
+              </a>
+              <a href="mailto:manojsrinivasan3473@gmail.com" className="flex items-center gap-2 hover:text-primary transition-colors duration-200">
                 <Mail className="w-4 h-4 text-primary" />
                 <span>manojsrinivasan3473@gmail.com</span>
-              </div>
+              </a>
             </div>
           </div>
 
