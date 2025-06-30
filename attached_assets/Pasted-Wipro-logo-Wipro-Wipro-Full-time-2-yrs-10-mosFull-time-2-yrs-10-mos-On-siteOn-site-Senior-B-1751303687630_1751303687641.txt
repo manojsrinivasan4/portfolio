@@ -1,0 +1,145 @@
+Wipro logo
+Wipro
+Wipro
+Full-time · 2 yrs 10 mosFull-time · 2 yrs 10 mos
+On-siteOn-site
+Senior Business Analyst
+Senior Business Analyst
+Jan 2025 - Present · 6 mosJan 2025 to Present · 6 mos
+Bengaluru, Karnataka, IndiaBengaluru, Karnataka, India
+☛Owned full delivery lifecycle of BI solutions across tight deadlines for high-visibility financial and marketing KPIs.
+☛Led a BI team of 3 analysts, mentoring them and managing workloads during critical delivery phases.
+☛Built Power BI solutions for tracking $5M+ in ad spend, budget variance, and forecasting dashboards, used by finance and leadership teams in APAC and US.
+☛Collaborated with finance teams to support compliance-aligned KPI reporting and monthly reconciliation reports (non-GAAP metrics).
+☛Designed dashboards for budgeting, variance tracking, and financial planning in collaboration with internal financial controllers.
+☛Automated data ingestion via SQL + Power Query from CRM, ad platforms, and financial systems (GL/ERP).
+☛Resolved last-minute data source issues and coordinated urgent rework cycles before executive reviews.
+☛Contributed to RFP responses by preparing reusable visual templates and solution design documentation.
+☛Participated in BI Center of Excellence (CoE) initiatives, led Power BI workshops, and shared internal best practices.
+☛Ensured data governance, role-level access, and compliance across all deliverables.
+☛Owned full delivery lifecycle of BI solutions across tight deadlines for high-visibility financial and marketing KPIs. ☛Led a BI team of 3 analysts, mentoring them and managing workloads during critical delivery phases. ☛Built Power BI solutions for tracking $5M+ in ad spend, budget variance, and forecasting dashboards, used by finance and leadership teams in APAC and US. ☛Collaborated with finance teams to support compliance-aligned KPI reporting and monthly reconciliation reports (non-GAAP metrics). ☛Designed dashboards for budgeting, variance tracking, and financial planning in collaboration with internal financial controllers. ☛Automated data ingestion via SQL + Power Query from CRM, ad platforms, and financial systems (GL/ERP). ☛Resolved last-minute data source issues and coordinated urgent rework cycles before executive reviews. ☛Contributed to RFP responses by preparing reusable visual templates and solution design documentation. ☛Participated in BI Center of Excellence (CoE) initiatives, led Power BI workshops, and shared internal best practices. ☛Ensured data governance, role-level access, and compliance across all deliverables.
+Skills: Data Transformation
+Skills: Data Transformation
+Business Analyst
+Business Analyst
+Mar 2024 - Dec 2024 · 10 mosMar 2024 to Dec 2024 · 10 mos
+Bengaluru, Karnataka, IndiaBengaluru, Karnataka, India
+☛Conducted in-depth analysis of 10+ business processes, identifying inefficiencies and recommending automation-driven solutions.
+☛Increased productivity by 25% and streamlined operations, reducing process bottlenecks and manual effort.
+☛Directly contributed to cost savings and enhanced workflow efficiency across multiple teams.
+Partnered with cross-functional stakeholders to define, document, and refine requirements for 15+ high-impact projects.
+☛Ensured a 98% success rate in meeting project deliverables on time and within budget.
+☛Strengthened communication between business & technical teams, aligning projects with organizational goals.
+☛Led data-driven decision-making by conducting 20+ deep-dive analyses using SQL, Power BI, and statistical modeling.
+☛Identified key revenue opportunities, contributing to a 10% increase in company revenue.
+☛Provided actionable insights that empowered leadership to optimize pricing and sales strategies.
+☛Designed and led workshops & presentations for 50+ stakeholders, covering business intelligence, process improvements, and analytics.
+☛Improved cross-team collaboration and knowledge sharing, leading to a 95% satisfaction rate in clarity and engagement.
+☛Enabled non-technical stakeholders to interpret data-driven insights effectively, leading to more informed decisions.
+☛Spearheaded the end-to-end implementation of a CRM system, integrating it with existing processes for sales and customer management.
+☛Reduced customer churn by 15% and increased sales team efficiency by 30% through automated workflows and customer segmentation.
+☛Enhanced customer experience, retention, and sales forecasting accuracy.
+☛Developed and maintained KPI dashboards for 5 business units, tracking performance metrics and business health indicators.
+☛Enabled data-driven decision-making that led to a 20% improvement in operational efficiency.
+☛Improved visibility into key performance trends, allowing leadership to proactively address inefficiencies.
+☛Conducted in-depth analysis of 10+ business processes, identifying inefficiencies and recommending automation-driven solutions. ☛Increased productivity by 25% and streamlined operations, reducing process bottlenecks and manual effort. ☛Directly contributed to cost savings and enhanced workflow efficiency across multiple teams. Partnered with cross-functional stakeholders to define, document, and refine requirements for 15+ high-impact projects. ☛Ensured a 98% success rate in meeting project deliverables on time and within budget. ☛Strengthened communication between business & technical teams, aligning projects with organizational goals. ☛Led data-driven decision-making by conducting 20+ deep-dive analyses using SQL, Power BI, and statistical modeling. ☛Identified key revenue opportunities, contributing to a 10% increase in company revenue. ☛Provided actionable insights that empowered leadership to optimize pricing and sales strategies. ☛Designed and led workshops & presentations for 50+ stakeholders, covering business intelligence, process improvements, and analytics. ☛Improved cross-team collaboration and knowledge sharing, leading to a 95% satisfaction rate in clarity and engagement. ☛Enabled non-technical stakeholders to interpret data-driven insights effectively, leading to more informed decisions. ☛Spearheaded the end-to-end implementation of a CRM system, integrating it with existing processes for sales and customer management. ☛Reduced customer churn by 15% and increased sales team efficiency by 30% through automated workflows and customer segmentation. ☛Enhanced customer experience, retention, and sales forecasting accuracy. ☛Developed and maintained KPI dashboards for 5 business units, tracking performance metrics and business health indicators. ☛Enabled data-driven decision-making that led to a 20% improvement in operational efficiency. ☛Improved visibility into key performance trends, allowing leadership to proactively address inefficiencies.
+Skills: Agile Methodologies · SWOT analysis · Data Analysis & Interpretation · Project Management Office (PMO) · Trello · KPI Dashboards · ERD · Microsoft Excel · Operations · Unified Modeling Language (UML) · Bizagi · Return on Investment · Business Analysis · Microsoft Power BI · Dashboards · Lean Six Sigma · Requirements Gathering · Scrum · Critical Thinking · Stakeholder Management · BRD · Data Analytics · Problem Solving · MySQL · BABOK · Requirement Specifications · SQL · Jira · Use Case Diagrams · Strategic Communications · Alteryx BI + Visualization Solutions
+Skills: Agile Methodologies · SWOT analysis · Data Analysis & Interpretation · Project Management Office (PMO) · Trello · KPI Dashboards · ERD · Microsoft Excel · Operations · Unified Modeling Language (UML) · Bizagi · Return on Investment · Business Analysis · Microsoft Power BI · Dashboards · Lean Six Sigma · Requirements Gathering · Scrum · Critical Thinking · Stakeholder Management · BRD · Data Analytics · Problem Solving · MySQL · BABOK · Requirement Specifications · SQL · Jira · Use Case Diagrams · Strategic Communications · Alteryx BI + Visualization Solutions
+Senior Data Analyst
+Senior Data Analyst
+Dec 2023 - Mar 2024 · 4 mosDec 2023 to Mar 2024 · 4 mos
+Bengaluru, Karnataka, IndiaBengaluru, Karnataka, India
+☛Designed and maintained data pipelines handling 1TB+ of data daily, ensuring seamless data ingestion and processing.
+☛Provided 99.9% uptime, reducing data delivery delays and ensuring uninterrupted business intelligence operations.
+☛Enabled real-time data access, improving analytics efficiency and reducing system downtime.
+☛Refactored and optimized ETL workflows, reducing data processing time from 5 hours to 3 hours (a 40% improvement).
+☛Allowed teams to access insights faster, reducing delays in decision-making and operational bottlenecks.
+☛Improved data pipeline efficiency, accelerating business reporting cycles.
+☛Built and optimized 10+ data models, enhancing database indexing and query structuring for faster retrieval.
+☛Improved query performance by 30%, reducing execution time and optimizing analytics dashboards.
+☛Provided business teams with real-time access to critical insights, improving decision-making efficiency.
+☛Developed and deployed 30+ automated data validation checks, reducing manual intervention in data verification.
+☛Increased data accuracy by 25%, ensuring data integrity and reducing inconsistencies
+☛Strengthened trust in business intelligence reports, leading to better strategic planning.
+☛Integrated 5 new data sources into the data warehouse, expanding its scope for more comprehensive analytics.
+☛Enhanced data coverage, enabling the business to extract richer insights from multiple data streams.
+☛Led to a 15% increase in actionable insights, supporting strategic business initiatives.
+☛Deployed scalable cloud-based data solutions, ensuring efficient resource utilization.
+☛Reduced infrastructure costs by 20%, while seamlessly supporting 50% higher data volumes.
+☛Optimized cloud spending and performance, enabling cost-effective scaling of data operations.
+☛Designed and maintained data pipelines handling 1TB+ of data daily, ensuring seamless data ingestion and processing. ☛Provided 99.9% uptime, reducing data delivery delays and ensuring uninterrupted business intelligence operations. ☛Enabled real-time data access, improving analytics efficiency and reducing system downtime. ☛Refactored and optimized ETL workflows, reducing data processing time from 5 hours to 3 hours (a 40% improvement). ☛Allowed teams to access insights faster, reducing delays in decision-making and operational bottlenecks. ☛Improved data pipeline efficiency, accelerating business reporting cycles. ☛Built and optimized 10+ data models, enhancing database indexing and query structuring for faster retrieval. ☛Improved query performance by 30%, reducing execution time and optimizing analytics dashboards. ☛Provided business teams with real-time access to critical insights, improving decision-making efficiency. ☛Developed and deployed 30+ automated data validation checks, reducing manual intervention in data verification. ☛Increased data accuracy by 25%, ensuring data integrity and reducing inconsistencies ☛Strengthened trust in business intelligence reports, leading to better strategic planning. ☛Integrated 5 new data sources into the data warehouse, expanding its scope for more comprehensive analytics. ☛Enhanced data coverage, enabling the business to extract richer insights from multiple data streams. ☛Led to a 15% increase in actionable insights, supporting strategic business initiatives. ☛Deployed scalable cloud-based data solutions, ensuring efficient resource utilization. ☛Reduced infrastructure costs by 20%, while seamlessly supporting 50% higher data volumes. ☛Optimized cloud spending and performance, enabling cost-effective scaling of data operations.
+Skills: Microsoft Power Query, · Unified Modeling Language (UML) · Scrum · Critical Thinking · Amazon QuickSight · BABOK · Use Case Diagrams · Alteryx BI + Visualization Solutions
+Skills: Microsoft Power Query, · Unified Modeling Language (UML) · Scrum · Critical Thinking · Amazon QuickSight · BABOK · Use Case Diagrams · Alteryx BI + Visualization Solutions
+Data Analyst
+Data Analyst
+Sep 2023 - Dec 2023 · 4 mosSep 2023 to Dec 2023 · 4 mos
+Gurugram, Haryana, IndiaGurugram, Haryana, India
+☛Analyzed and interpreted 1M+ rows of data using Python and SQL, extracting key insights from complex datasets.
+☛Identified operational inefficiencies and provided data-backed recommendations for process improvements.
+☛ Increased operational efficiency by 20%, leading to optimized resource allocation and improved workflows.
+☛Developed interactive dashboards in Tableau and Power BI to visualize key business metrics.
+☛Enabled real-time monitoring of performance metrics, allowing teams to make faster, data-driven decisions.
+☛Improved reporting efficiency by 30%, reducing manual reporting time and enhancing strategic decision-making.
+☛Automated 50+ recurring data processes, replacing manual workflows with scripted solutions in Python and SQL.
+☛Freed up valuable analyst time, reducing dependency on manual data manipulation.
+☛Saved 15+ hours per week, enabling teams to focus on higher-value analytical tasks.
+☛Conducted market trend analysis for 5 major projects, leveraging historical data and predictive analytics.
+☛Provided leadership with insights into customer behavior and market trends, allowing for more targeted strategies.
+☛Led to a 10% increase in revenue, supporting better pricing and customer engagement strategies.
+☛Identified and resolved data inconsistencies, implementing advanced data cleansing techniques.
+☛Standardized data formats, removed duplicates, and ensured a single source of truth for analytics.
+☛Increased data accuracy by 25%, improving report reliability and predictive analytics performance.
+☛Presented data-driven insights in weekly stakeholder reports, translating complex analyses into actionable recommendations.
+☛Provided leadership with clear, data-backed decision-making support.
+☛Achieved 95% adoption rate of recommended strategies, improving project outcomes and business alignment.
+☛Analyzed and interpreted 1M+ rows of data using Python and SQL, extracting key insights from complex datasets. ☛Identified operational inefficiencies and provided data-backed recommendations for process improvements. ☛ Increased operational efficiency by 20%, leading to optimized resource allocation and improved workflows. ☛Developed interactive dashboards in Tableau and Power BI to visualize key business metrics. ☛Enabled real-time monitoring of performance metrics, allowing teams to make faster, data-driven decisions. ☛Improved reporting efficiency by 30%, reducing manual reporting time and enhancing strategic decision-making. ☛Automated 50+ recurring data processes, replacing manual workflows with scripted solutions in Python and SQL. ☛Freed up valuable analyst time, reducing dependency on manual data manipulation. ☛Saved 15+ hours per week, enabling teams to focus on higher-value analytical tasks. ☛Conducted market trend analysis for 5 major projects, leveraging historical data and predictive analytics. ☛Provided leadership with insights into customer behavior and market trends, allowing for more targeted strategies. ☛Led to a 10% increase in revenue, supporting better pricing and customer engagement strategies. ☛Identified and resolved data inconsistencies, implementing advanced data cleansing techniques. ☛Standardized data formats, removed duplicates, and ensured a single source of truth for analytics. ☛Increased data accuracy by 25%, improving report reliability and predictive analytics performance. ☛Presented data-driven insights in weekly stakeholder reports, translating complex analyses into actionable recommendations. ☛Provided leadership with clear, data-backed decision-making support. ☛Achieved 95% adoption rate of recommended strategies, improving project outcomes and business alignment.
+Skills: SQL Server Reporting Services (SSRS) · Microsoft SQL Server · PowerPivot · Google BigQuery · Talend Open Studio · SQL Server Integration Services (SSIS) · FRD · Critical Thinking · VBA Excel
+Skills: SQL Server Reporting Services (SSRS) · Microsoft SQL Server · PowerPivot · Google BigQuery · Talend Open Studio · SQL Server Integration Services (SSIS) · FRD · Critical Thinking · VBA Excel
+Senior Software Engineer
+Senior Software Engineer
+Jun 2023 - Sep 2023 · 4 mosJun 2023 to Sep 2023 · 4 mos
+Mumbai, Maharashtra, IndiaMumbai, Maharashtra, India
+☛Led a team of 10 developers, overseeing feature development and ensuring smooth execution.
+☛ Accelerated the development cycle, enabling faster release of new features aligned with business goals.
+☛Increased user engagement by 20%, driving higher customer retention and satisfaction.
+☛Collaborated with product management to define, prioritize, and optimize the feature roadmap.
+☛Reduced bottlenecks in development, enabling faster iteration and quicker product improvements.
+☛Cut time-to-market by 30% for new releases, ensuring a competitive edge in the market.
+☛Developed a structured training program for junior developers, focusing on best coding practices and efficiency.
+☛Increased team productivity, improved onboarding efficiency, and enhanced code maintainability.
+☛Boosted code quality and efficiency by 15%, leading to faster development cycles and fewer defects.
+☛Implemented an automated customer response system to streamline interactions and issue resolution.
+☛Drastically reduced response time by 50%, leading to faster customer support resolution.
+☛Increased customer satisfaction ratings by 75%, strengthening brand reputation and customer loyalty.
+☛Leveraged data analysis tools to track customer behavior and analyze return patterns.
+☛Provided insights that led to changes in product design and user experience, reducing unnecessary returns.
+☛Decreased product return rates by 30%, saving the company $500,000 annually in logistics and lost revenue.
+☛Streamlined project workflows by implementing agile methodologies and cross-functional coordination.
+☛Improved communication between development, marketing, and customer service teams, aligning business priorities.
+☛Enhanced on-time project delivery by 20%, reducing delays and optimizing resource utilization.
+☛Led a team of 10 developers, overseeing feature development and ensuring smooth execution. ☛ Accelerated the development cycle, enabling faster release of new features aligned with business goals. ☛Increased user engagement by 20%, driving higher customer retention and satisfaction. ☛Collaborated with product management to define, prioritize, and optimize the feature roadmap. ☛Reduced bottlenecks in development, enabling faster iteration and quicker product improvements. ☛Cut time-to-market by 30% for new releases, ensuring a competitive edge in the market. ☛Developed a structured training program for junior developers, focusing on best coding practices and efficiency. ☛Increased team productivity, improved onboarding efficiency, and enhanced code maintainability. ☛Boosted code quality and efficiency by 15%, leading to faster development cycles and fewer defects. ☛Implemented an automated customer response system to streamline interactions and issue resolution. ☛Drastically reduced response time by 50%, leading to faster customer support resolution. ☛Increased customer satisfaction ratings by 75%, strengthening brand reputation and customer loyalty. ☛Leveraged data analysis tools to track customer behavior and analyze return patterns. ☛Provided insights that led to changes in product design and user experience, reducing unnecessary returns. ☛Decreased product return rates by 30%, saving the company $500,000 annually in logistics and lost revenue. ☛Streamlined project workflows by implementing agile methodologies and cross-functional coordination. ☛Improved communication between development, marketing, and customer service teams, aligning business priorities. ☛Enhanced on-time project delivery by 20%, reducing delays and optimizing resource utilization.
+Skills: Oracle SQL Developer · Waterfall Project Management · Critical Thinking · SQL Server Analysis Services (SSAS) · Microsoft Word · PostgreSQL · Microsoft Power Platform
+Skills: Oracle SQL Developer · Waterfall Project Management · Critical Thinking · SQL Server Analysis Services (SSAS) · Microsoft Word · PostgreSQL · Microsoft Power Platform
+Software Engineer
+Software Engineer
+Mar 2023 - Jun 2023 · 4 mosMar 2023 to Jun 2023 · 4 mos
+Pune, Maharashtra, IndiaPune, Maharashtra, India
+☛ Managed datasets exceeding 100,000 records, applying statistical analysis and visualization techniques to extract meaningful insights.
+☛ Maintained a 98%+ compliance rate, avoiding legal penalties and enhancing corporate reputation.
+☛ Developed Excel-based automation and optimization strategies, refining data processing workflows.
+☛ Increased efficiency in data manipulation and analysis, enabling quicker insights and decision-making.
+☛ Reduced data processing time by 70%, improving operational speed and workforce productivity.
+☛ Streamlined pension structures for 30+ clients, restructuring financial models and investment plans.
+☛ Lowered unnecessary expenses while enhancing long-term portfolio growth for clients.
+☛ Achieved a 15% cost reduction and boosted customer satisfaction by 20%, increasing client retention.
+☛ Executed 100+ complex SQL queries, optimizing database retrieval and manipulation.
+☛ Provided real-time access to critical business data, reducing time spent on manual data pulls.
+☛ Achieved a 99% accuracy rate in SQL query execution, significantly improving data reliability for reporting.
+☛ Generated 500+ monthly reports, consolidating key performance indicators (KPIs) for executive teams.
+☛ Delivered real-time insights, supporting leadership in making data-backed business decisions.
+☛ Increased decision-making efficiency, achieving a 95% satisfaction rate among executives.
+☛ Improved web application features based on customer behavior analysis and feedback.
+☛ Enhanced user experience, making the platform more intuitive and responsive.
+☛ Increased user engagement by 25%, strengthening brand loyalty and customer retention.
+☛ Managed datasets exceeding 100,000 records, applying statistical analysis and visualization techniques to extract meaningful insights. ☛ Maintained a 98%+ compliance rate, avoiding legal penalties and enhancing corporate reputation. ☛ Developed Excel-based automation and optimization strategies, refining data processing workflows. ☛ Increased efficiency in data manipulation and analysis, enabling quicker insights and decision-making. ☛ Reduced data processing time by 70%, improving operational speed and workforce productivity. ☛ Streamlined pension structures for 30+ clients, restructuring financial models and investment plans. ☛ Lowered unnecessary expenses while enhancing long-term portfolio growth for clients. ☛ Achieved a 15% cost reduction and boosted customer satisfaction by 20%, increasing client retention. ☛ Executed 100+ complex SQL queries, optimizing database retrieval and manipulation. ☛ Provided real-time access to critical business data, reducing time spent on manual data pulls. ☛ Achieved a 99% accuracy rate in SQL query execution, significantly improving data reliability for reporting. ☛ Generated 500+ monthly reports, consolidating key performance indicators (KPIs) for executive teams. ☛ Delivered real-time insights, supporting leadership in making data-backed business decisions. ☛ Increased decision-making efficiency, achieving a 95% satisfaction rate among executives. ☛ Improved web application features based on customer behavior analysis and feedback. ☛ Enhanced user experience, making the platform more intuitive and responsive. ☛ Increased user engagement by 25%, strengthening brand loyalty and customer retention.
+Skills: Lucidchart · Figma (Software) · Python (Programming Language) · Business Process Modeling · NumPy · Confluence
