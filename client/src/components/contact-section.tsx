@@ -114,7 +114,7 @@ export default function ContactSection() {
                   if (info.label === "Phone") {
                     return `tel:+91${info.value.replace(/\D/g, '')}`;
                   } else if (info.label === "Email") {
-                    return `mailto:${info.value}`;
+                    return `mailto:${info.value}?subject=Portfolio Inquiry&body=Hello Manoj,%0D%0A%0D%0AI would like to discuss...`;
                   } else if (info.label === "LinkedIn") {
                     return `https://${info.value}`;
                   }

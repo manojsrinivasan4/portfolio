@@ -61,7 +61,7 @@ export default function HeroSection() {
                 <Phone className="w-4 h-4 text-primary" />
                 <span>9080363287</span>
               </a>
-              <a href="mailto:manojsrinivasan3473@gmail.com" className="flex items-center gap-2 hover:text-primary transition-colors duration-200">
+              <a href="mailto:manojsrinivasan3473@gmail.com?subject=Portfolio Inquiry" className="flex items-center gap-2 hover:text-primary transition-colors duration-200">
                 <Mail className="w-4 h-4 text-primary" />
                 <span>manojsrinivasan3473@gmail.com</span>
               </a>
