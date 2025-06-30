@@ -1,6 +1,7 @@
 import { Download, Mail, Phone, MapPin } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { useToast } from "@/hooks/use-toast";
+import profileImage from "@assets/1702017134417_1751303201057.jfif";
 
 export default function HeroSection() {
   const { toast } = useToast();
@@ -94,10 +95,12 @@ export default function HeroSection() {
 
           <div className="flex-1 flex justify-center lg:justify-end">
             <div className="relative">
-              <div className="w-80 h-80 bg-gradient-to-br from-primary to-secondary rounded-2xl shadow-2xl flex items-center justify-center">
-                <svg className="w-24 h-24 text-white" fill="currentColor" viewBox="0 0 20 20">
-                  <path fillRule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clipRule="evenodd" />
-                </svg>
+              <div className="w-80 h-80 rounded-2xl shadow-2xl overflow-hidden">
+                <img 
+                  src={profileImage} 
+                  alt="Manoj Srinivasan - Business Analyst and Data Expert"
+                  className="w-full h-full object-cover"
+                />
               </div>
               <div className="absolute -bottom-4 -right-4 bg-success text-white px-4 py-2 rounded-lg shadow-lg">
                 <span className="font-medium">4+ Years Experience</span>
