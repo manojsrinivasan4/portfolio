@@ -1,4 +1,4 @@
-import { Download, Mail, Phone, MapPin } from "lucide-react";
+import { Mail, Phone, MapPin, ExternalLink } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { useToast } from "@/hooks/use-toast";
 import profileImage from "@assets/1702017134417_1751303201057.jfif";
@@ -6,33 +6,8 @@ import profileImage from "@assets/1702017134417_1751303201057.jfif";
 export default function HeroSection() {
   const { toast } = useToast();
 
-  const handleDownloadResume = async () => {
-    try {
-      const response = await fetch("/api/download-resume");
-      if (response.ok) {
-        const blob = await response.blob();
-        const url = window.URL.createObjectURL(blob);
-        const a = document.createElement("a");
-        a.href = url;
-        a.download = "Manoj_Srinivasan_Resume.pdf";
-        document.body.appendChild(a);
-        a.click();
-        window.URL.revokeObjectURL(url);
-        document.body.removeChild(a);
-        toast({
-          title: "Resume Downloaded",
-          description: "Resume has been downloaded successfully.",
-        });
-      } else {
-        throw new Error("Download failed");
-      }
-    } catch (error) {
-      toast({
-        title: "Download Error",
-        description: "Resume download will be available soon.",
-        variant: "destructive",
-      });
-    }
+  const handleLinkedInClick = () => {
+    window.open("https://www.linkedin.com/in/manoj-srinivasan2345/", "_blank");
   };
 
   const scrollToContact = () => {
@@ -61,11 +36,11 @@ export default function HeroSection() {
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start mb-8">
               <Button 
-                onClick={handleDownloadResume}
+                onClick={handleLinkedInClick}
                 className="bg-primary hover:bg-secondary text-white px-8 py-3 rounded-lg font-medium transition-colors duration-200 flex items-center justify-center gap-2"
               >
-                <Download className="w-4 h-4" />
-                Download Resume
+                <ExternalLink className="w-4 h-4" />
+                View LinkedIn Profile
               </Button>
               <Button 
                 variant="outline"

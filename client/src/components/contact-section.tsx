@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Phone, Mail, MapPin, Linkedin, Github, Twitter, Send } from "lucide-react";
+import { Phone, Mail, MapPin, Linkedin, Send } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
@@ -75,7 +75,7 @@ export default function ContactSection() {
     {
       icon: Linkedin,
       label: "LinkedIn",
-      value: "linkedin.com/in/manojsrinivasan2345",
+      value: "linkedin.com/in/manoj-srinivasan2345",
       color: "accent",
     },
     {
@@ -87,9 +87,7 @@ export default function ContactSection() {
   ];
 
   const socialLinks = [
-    { icon: Linkedin, href: "#", color: "bg-primary hover:bg-secondary" },
-    { icon: Github, href: "#", color: "bg-slate-600 hover:bg-slate-700" },
-    { icon: Twitter, href: "#", color: "bg-blue-500 hover:bg-blue-600" },
+    { icon: Linkedin, href: "https://www.linkedin.com/in/manoj-srinivasan2345/", color: "bg-primary hover:bg-secondary" },
   ];
 
   return (
@@ -135,6 +133,8 @@ export default function ContactSection() {
                     <a
                       key={index}
                       href={social.href}
+                      target="_blank"
+                      rel="noopener noreferrer"
                       className={`w-10 h-10 ${social.color} text-white rounded-lg flex items-center justify-center transition-colors duration-200`}
                     >
                       <IconComponent className="w-5 h-5" />

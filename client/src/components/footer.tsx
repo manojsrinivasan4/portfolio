@@ -1,4 +1,4 @@
-import { Linkedin, Github, Twitter } from "lucide-react";
+import { Linkedin } from "lucide-react";
 
 export default function Footer() {
   const scrollToSection = (href: string) => {
@@ -25,9 +25,7 @@ export default function Footer() {
   ];
 
   const socialLinks = [
-    { icon: Linkedin, href: "#" },
-    { icon: Github, href: "#" },
-    { icon: Twitter, href: "#" },
+    { icon: Linkedin, href: "https://www.linkedin.com/in/manoj-srinivasan2345/" },
   ];
 
   return (
@@ -48,6 +46,8 @@ export default function Footer() {
                   <a
                     key={index}
                     href={social.href}
+                    target="_blank"
+                    rel="noopener noreferrer"
                     className="w-8 h-8 bg-slate-800 text-slate-300 rounded-lg flex items-center justify-center hover:bg-primary hover:text-white transition-colors duration-200"
                   >
                     <IconComponent className="text-sm w-4 h-4" />
