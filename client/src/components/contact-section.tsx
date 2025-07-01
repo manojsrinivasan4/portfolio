@@ -100,10 +100,10 @@ export default function ContactSection() {
           </p>
         </div>
 
-        <div className="grid lg:grid-cols-2 gap-12">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12">
           {/* Contact Information */}
           <div>
-            <h3 className="text-2xl font-semibold text-slate-900 mb-6">Contact Information</h3>
+            <h3 className="text-xl sm:text-2xl font-semibold text-slate-900 mb-6">Contact Information</h3>
             <div className="space-y-6">
               {contactInfo.map((info, index) => {
                 const IconComponent = info.icon;
@@ -178,10 +178,10 @@ export default function ContactSection() {
           </div>
 
           {/* Contact Form */}
-          <div className="bg-white p-8 rounded-xl shadow-sm">
-            <h3 className="text-2xl font-semibold text-slate-900 mb-6">Send a Message</h3>
-            <form onSubmit={handleSubmit} className="space-y-6">
-              <div className="grid md:grid-cols-2 gap-6">
+          <div className="bg-white p-6 sm:p-8 rounded-xl shadow-sm">
+            <h3 className="text-xl sm:text-2xl font-semibold text-slate-900 mb-6">Send a Message</h3>
+            <form onSubmit={handleSubmit} className="space-y-4 sm:space-y-6">
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 sm:gap-6">
                 <div>
                   <Label htmlFor="firstName" className="block text-sm font-medium text-slate-700 mb-2">
                     First Name
