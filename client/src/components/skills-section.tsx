@@ -63,7 +63,7 @@ export default function SkillsSection() {
       ],
     },
     {
-      title: "Certifications & Awards",
+      title: "Certifications",
       icon: Code,
       color: "warning",
       certifications: [
@@ -72,11 +72,6 @@ export default function SkillsSection() {
         "GEN AI Fundamentals",
         "Digital Garage Certificate",
         "Walmart USA - Advanced Software Engineering Job Simulation",
-        "Bravo Awards",
-        "Rising Star Awards",
-        "Pat on the Back Awards",
-        "Spirit of Wipro Award",
-        "Rookie Rising Star",
       ],
     },
   ];
