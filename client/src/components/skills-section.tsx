@@ -62,18 +62,7 @@ export default function SkillsSection() {
         "SACM Standards",
       ],
     },
-    {
-      title: "Certifications",
-      icon: Code,
-      color: "warning",
-      certifications: [
-        "AWS Cloud Essentials for Business Leaders",
-        "Google Analytics Certification",
-        "GEN AI Fundamentals",
-        "Digital Garage Certificate",
-        "Walmart USA - Advanced Software Engineering Job Simulation",
-      ],
-    },
+
   ];
 
   return (
