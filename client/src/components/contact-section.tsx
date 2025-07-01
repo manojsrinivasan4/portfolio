@@ -56,6 +56,14 @@ export default function ContactSection() {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
+    // Create email content
+    const subject = formData.subject || "Portfolio Contact";
+    const body = `Hello Manoj,\n\nMy name is ${formData.firstName} ${formData.lastName}.\n\n${formData.message}\n\nBest regards,\n${formData.firstName} ${formData.lastName}\n${formData.email}`;
+    // Create mailto link
+    const mailtoLink = `mailto:manojsrinivasan3473@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    // Open email client
+    window.location.href = mailtoLink;
+    // Also submit to API
     contactMutation.mutate(formData);
   };
 
