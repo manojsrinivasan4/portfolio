@@ -1,4 +1,4 @@
-import { BarChart, Settings, Briefcase, Database, Cloud, Code } from "lucide-react";
+import { BarChart, Settings, Briefcase, Database, Cloud } from "lucide-react";
 
 export default function SkillsSection() {
   const skillCategories = [
@@ -75,7 +75,7 @@ export default function SkillsSection() {
           </p>
         </div>
 
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div className="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-8">
           {skillCategories.map((category, index) => {
             const IconComponent = category.icon;
             const colorClass = `text-${category.color}`;
@@ -137,19 +137,7 @@ export default function SkillsSection() {
                   </ul>
                 )}
 
-                {/* Certifications */}
-                {category.certifications && (
-                  <div className="space-y-2">
-                    {category.certifications.map((cert, certIndex) => (
-                      <div key={certIndex} className="flex items-start gap-2">
-                        <svg className="w-4 h-4 text-warning mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
-                          <path fillRule="evenodd" d="M6.267 3.455a3.066 3.066 0 001.745-.723 3.066 3.066 0 013.976 0 3.066 3.066 0 001.745.723 3.066 3.066 0 012.812 2.812c.051.643.304 1.254.723 1.745a3.066 3.066 0 010 3.976 3.066 3.066 0 00-.723 1.745 3.066 3.066 0 01-2.812 2.812 3.066 3.066 0 00-1.745.723 3.066 3.066 0 01-3.976 0 3.066 3.066 0 00-1.745-.723 3.066 3.066 0 01-2.812-2.812 3.066 3.066 0 00-.723-1.745 3.066 3.066 0 010-3.976 3.066 3.066 0 00.723-1.745 3.066 3.066 0 012.812-2.812zm7.44 5.252a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
-                        </svg>
-                        <span className="text-sm text-slate-700">{cert}</span>
-                      </div>
-                    ))}
-                  </div>
-                )}
+
               </div>
             );
           })}
