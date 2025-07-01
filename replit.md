@@ -107,7 +107,9 @@ This is a professional portfolio website for Manoj Srinivasan, a Business Analys
 
 ## Changelog
 - June 30, 2025. Initial setup
+- July 1, 2025. Updated skills section with comprehensive skills from resume, improved responsive design for all devices, contact form functionality confirmed working
 
 ## User Preferences
 
 Preferred communication style: Simple, everyday language.
+Contact form: Keep database storage only, no email integration needed.
