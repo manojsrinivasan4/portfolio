@@ -1,0 +1,715 @@
+Contact
+9080363287 (Mobile)
+manojsrinivasan3473@gmail.c
+om
+www.linkedin.com/in/manojsrinivasan2345 (LinkedIn)
+Top Skills
+Data Transformation
+Data Visualization
+Predictive Analytics
+Languages
+Telugu (Professional Working)
+Hindi (Professional Working)
+Tamil (Native or Bilingual)
+Certifications
+AWS Cloud Essentials for Business
+Leaders
+Google Analytics Certification
+GEN AI Fundamentals
+Digital Garage Certificate
+Walmart USA - Advanced Software
+Engineering Job Simulation
+Honors-Awards
+Bravo Awards
+Rising Star Awards
+Pat on the Back Awards
+Spirit of Wipro Award
+Rookie Rising Star
+Publications
+A Novel Watermarking and ReEncryption Approach to Avoid Illegal
+Content Sharing In Cloud
+Manoj Srinivasan
+Business Analyst | Data & Operations Analyst | Power BI Developer
+| Driving KPI Reporting, Process Optimization & Strategic Insights |
+BFSI Domain | SQL, Python, Snowflake, UAT, Agile, ServiceNow
+Bengaluru, Karnataka, India
+Summary
+I help organizations transform raw data into business value through
+end-to-end analytics solutions that drive insights, streamline
+operations, and boost performance.
+With 4+ years of experience across Business Analysis, Data
+Analytics, ETL Development, and Reporting Automation, I bring a
+unique blend of technical skills and business acumen. I specialize
+in building dashboards, data pipelines, and process improvements
+using Power BI, SQL, Python, AWS Glue, and Excel VBA.
+Key wins:
+Reduced reporting time by 30% with interactive dashboards (Power
+BI & QuickSight)
+Improved data accuracy to 99% by building robust ETL pipelines
+(SQL, AWS Glue, Python)
+Boosted marketing ROI by 15% using SQL analytics and data
+modeling
+Led Agile sprints, UATs, and stakeholder reviews—achieving 98%
+governance compliance
+Currently, I work as a Business Analyst at Wipro, driving analytics
+transformation for a UK-based life insurance client.
+I’m passionate about solving business challenges with data,
+automation, and insight-driven solutions. Always eager to connect,
+collaborate, and contribute to data-first organizations in BFSI,
+fintech, and product-led environments.
+Page 1 of 18
+Experience
+Wipro
+2 years 11 months
+Senior Business Analyst
+January 2025 - Present (7 months)
+Bengaluru, Karnataka, India
+☛Owned full delivery lifecycle of BI solutions across tight deadlines for highvisibility financial and marketing KPIs.
+☛Led a BI team of 3 analysts, mentoring them and managing workloads
+during critical delivery phases.
+☛Built Power BI solutions for tracking $5M+ in ad spend, budget variance, and
+forecasting dashboards, used by finance and leadership teams in APAC and
+US.
+☛Collaborated with finance teams to support compliance-aligned KPI reporting
+and monthly reconciliation reports (non-GAAP metrics).
+☛Designed dashboards for budgeting, variance tracking, and financial
+planning in collaboration with internal financial controllers.
+☛Automated data ingestion via SQL + Power Query from CRM, ad platforms,
+and financial systems (GL/ERP).
+☛Resolved last-minute data source issues and coordinated urgent rework
+cycles before executive reviews.
+☛Contributed to RFP responses by preparing reusable visual templates and
+solution design documentation.
+☛Participated in BI Center of Excellence (CoE) initiatives, led Power BI
+workshops, and shared internal best practices.
+☛Ensured data governance, role-level access, and compliance across all
+deliverables.
+Business Analyst
+March 2024 - December 2024 (10 months)
+Bengaluru, Karnataka, India
+☛Conducted in-depth analysis of 10+ business processes, identifying
+inefficiencies and recommending automation-driven solutions.
+☛Increased productivity by 25% and streamlined operations, reducing process
+bottlenecks and manual effort.
+☛Directly contributed to cost savings and enhanced workflow efficiency across
+multiple teams.
+Partnered with cross-functional stakeholders to define, document, and refine
+requirements for 15+ high-impact projects.
+Page 2 of 18
+☛Ensured a 98% success rate in meeting project deliverables on time and
+within budget.
+☛Strengthened communication between business & technical teams, aligning
+projects with organizational goals.
+☛Led data-driven decision-making by conducting 20+ deep-dive analyses
+using SQL, Power BI, and statistical modeling.
+☛Identified key revenue opportunities, contributing to a 10% increase in
+company revenue.
+☛Provided actionable insights that empowered leadership to optimize pricing
+and sales strategies.
+☛Designed and led workshops & presentations for 50+ stakeholders, covering
+business intelligence, process improvements, and analytics.
+☛Improved cross-team collaboration and knowledge sharing, leading to a 95%
+satisfaction rate in clarity and engagement.
+☛Enabled non-technical stakeholders to interpret data-driven insights
+effectively, leading to more informed decisions.
+☛Spearheaded the end-to-end implementation of a CRM system, integrating it
+with existing processes for sales and customer management.
+☛Reduced customer churn by 15% and increased sales team efficiency by
+30% through automated workflows and customer segmentation.
+☛Enhanced customer experience, retention, and sales forecasting accuracy.
+☛Developed and maintained KPI dashboards for 5 business units, tracking
+performance metrics and business health indicators.
+☛Enabled data-driven decision-making that led to a 20% improvement in
+operational efficiency.
+☛Improved visibility into key performance trends, allowing leadership to
+proactively address inefficiencies.
+Senior Data Analyst
+December 2023 - March 2024 (4 months)
+Bengaluru, Karnataka, India
+☛Designed and maintained data pipelines handling 1TB+ of data daily,
+ensuring seamless data ingestion and processing.
+☛Provided 99.9% uptime, reducing data delivery delays and ensuring
+uninterrupted business intelligence operations.
+☛Enabled real-time data access, improving analytics efficiency and reducing
+system downtime.
+☛Refactored and optimized ETL workflows, reducing data processing time
+from 5 hours to 3 hours (a 40% improvement).
+Page 3 of 18
+☛Allowed teams to access insights faster, reducing delays in decision-making
+and operational bottlenecks.
+☛Improved data pipeline efficiency, accelerating business reporting cycles.
+☛Built and optimized 10+ data models, enhancing database indexing and
+query structuring for faster retrieval.
+☛Improved query performance by 30%, reducing execution time and
+optimizing analytics dashboards.
+☛Provided business teams with real-time access to critical insights, improving
+decision-making efficiency.
+☛Developed and deployed 30+ automated data validation checks, reducing
+manual intervention in data verification.
+☛Increased data accuracy by 25%, ensuring data integrity and reducing
+inconsistencies
+☛Strengthened trust in business intelligence reports, leading to better strategic
+planning.
+☛Integrated 5 new data sources into the data warehouse, expanding its scope
+for more comprehensive analytics.
+☛Enhanced data coverage, enabling the business to extract richer insights
+from multiple data streams.
+☛Led to a 15% increase in actionable insights, supporting strategic business
+initiatives.
+☛Deployed scalable cloud-based data solutions, ensuring efficient resource
+utilization.
+☛Reduced infrastructure costs by 20%, while seamlessly supporting 50%
+higher data volumes.
+☛Optimized cloud spending and performance, enabling cost-effective scaling
+of data operations.
+Data Analyst
+September 2023 - December 2023 (4 months)
+Gurugram, Haryana, India
+☛Analyzed and interpreted 1M+ rows of data using Python and SQL,
+extracting key insights from complex datasets.
+☛Identified operational inefficiencies and provided data-backed
+recommendations for process improvements.
+☛ Increased operational efficiency by 20%, leading to optimized resource
+allocation and improved workflows.
+☛Developed interactive dashboards in Tableau and Power BI to visualize key
+business metrics.
+Page 4 of 18
+☛Enabled real-time monitoring of performance metrics, allowing teams to
+make faster, data-driven decisions.
+☛Improved reporting efficiency by 30%, reducing manual reporting time and
+enhancing strategic decision-making.
+☛Automated 50+ recurring data processes, replacing manual workflows with
+scripted solutions in Python and SQL.
+☛Freed up valuable analyst time, reducing dependency on manual data
+manipulation.
+☛Saved 15+ hours per week, enabling teams to focus on higher-value
+analytical tasks.
+☛Conducted market trend analysis for 5 major projects, leveraging historical
+data and predictive analytics.
+☛Provided leadership with insights into customer behavior and market trends,
+allowing for more targeted strategies.
+☛Led to a 10% increase in revenue, supporting better pricing and customer
+engagement strategies.
+☛Identified and resolved data inconsistencies, implementing advanced data
+cleansing techniques.
+☛Standardized data formats, removed duplicates, and ensured a single
+source of truth for analytics.
+☛Increased data accuracy by 25%, improving report reliability and predictive
+analytics performance.
+☛Presented data-driven insights in weekly stakeholder reports, translating
+complex analyses into actionable recommendations.
+☛Provided leadership with clear, data-backed decision-making support.
+☛Achieved 95% adoption rate of recommended strategies, improving project
+outcomes and business alignment.
+Senior Software Engineer
+June 2023 - September 2023 (4 months)
+Mumbai, Maharashtra, India
+☛Led a team of 10 developers, overseeing feature development and ensuring
+smooth execution.
+☛ Accelerated the development cycle, enabling faster release of new features
+aligned with business goals.
+☛Increased user engagement by 20%, driving higher customer retention and
+satisfaction.
+☛Collaborated with product management to define, prioritize, and optimize the
+feature roadmap.
+Page 5 of 18
+☛Reduced bottlenecks in development, enabling faster iteration and quicker
+product improvements.
+☛Cut time-to-market by 30% for new releases, ensuring a competitive edge in
+the market.
+☛Developed a structured training program for junior developers, focusing on
+best coding practices and efficiency.
+☛Increased team productivity, improved onboarding efficiency, and enhanced
+code maintainability.
+☛Boosted code quality and efficiency by 15%, leading to faster development
+cycles and fewer defects.
+☛Implemented an automated customer response system to streamline
+interactions and issue resolution.
+☛Drastically reduced response time by 50%, leading to faster customer
+support resolution.
+☛Increased customer satisfaction ratings by 75%, strengthening brand
+reputation and customer loyalty.
+☛Leveraged data analysis tools to track customer behavior and analyze return
+patterns.
+☛Provided insights that led to changes in product design and user experience,
+reducing unnecessary returns.
+☛Decreased product return rates by 30%, saving the company $500,000
+annually in logistics and lost revenue.
+☛Streamlined project workflows by implementing agile methodologies and
+cross-functional coordination.
+☛Improved communication between development, marketing, and customer
+service teams, aligning business priorities.
+☛Enhanced on-time project delivery by 20%, reducing delays and optimizing
+resource utilization.
+Software Engineer
+March 2023 - June 2023 (4 months)
+Pune, Maharashtra, India
+☛ Managed datasets exceeding 100,000 records, applying statistical analysis
+and visualization techniques to extract meaningful insights.
+☛ Maintained a 98%+ compliance rate, avoiding legal penalties and enhancing
+corporate reputation.
+☛ Developed Excel-based automation and optimization strategies, refining
+data processing workflows.
+☛ Increased efficiency in data manipulation and analysis, enabling quicker
+insights and decision-making.
+Page 6 of 18
+☛ Reduced data processing time by 70%, improving operational speed and
+workforce productivity.
+☛ Streamlined pension structures for 30+ clients, restructuring financial
+models and investment plans.
+☛ Lowered unnecessary expenses while enhancing long-term portfolio growth
+for clients.
+☛ Achieved a 15% cost reduction and boosted customer satisfaction by 20%,
+increasing client retention.
+☛ Executed 100+ complex SQL queries, optimizing database retrieval and
+manipulation.
+☛ Provided real-time access to critical business data, reducing time spent on
+manual data pulls.
+☛ Achieved a 99% accuracy rate in SQL query execution, significantly
+improving data reliability for reporting.
+☛ Generated 500+ monthly reports, consolidating key performance indicators
+(KPIs) for executive teams.
+☛ Delivered real-time insights, supporting leadership in making data-backed
+business decisions.
+☛ Increased decision-making efficiency, achieving a 95% satisfaction rate
+among executives.
+☛ Improved web application features based on customer behavior analysis
+and feedback.
+☛ Enhanced user experience, making the platform more intuitive and
+responsive.
+☛ Increased user engagement by 25%, strengthening brand loyalty and
+customer retention.
+Application Developer
+December 2022 - March 2023 (4 months)
+Chennai, Tamil Nadu, India
+☛ Delivered consistent updates to 20+ clients daily, achieving a 95%
+satisfaction rate.
+☛ Executed 50+ SQLYOG queries with 100% accuracy, meeting customer
+specifications.
+☛ Constructed a new application backend using Spring framework, Jenkins,
+and WinCvs, reducing development time by 60%.
+☛ Conducted over 100 unit tests, resolving 90% of issues, leading to a 99%
+application functionality rate.
+☛ Improved program efficiency by 50%, resulting in a 20% productivity
+increase.
+Page 7 of 18
+☛ Ensured application performance and responsiveness, achieving a 99%
+uptime rate.
+☛ Produced 10+ technical manuals, reducing support tickets by 90%.
+☛ Engaged in patching, penetration testing, and migration activities,
+maintaining a secure application environment.
+Project Engineer
+September 2022 - December 2022 (4 months)
+Hyderabad, Telangana, India
+☛ Provided consistent updates to over 20 clients on service requests,
+achieving a 95% satisfaction rate through regular feedback.
+☛ Successfully executed more than 50 SQLYOG queries tailored to customer
+specifications, ensuring a 100% accuracy rate.
+☛ Developed the backend of a new application from scratch using the Spring
+framework, Jenkins, and WinCVS, reducing development time by 60%.
+☛ Conducted over 100 unit tests post-deployment, identifying and resolving
+90% of issues, resulting in a 99% functionality rate for applications.
+☛ Analyzed existing programs to identify areas for improvement, enhancing
+efficiency by 50% and boosting overall productivity by 20%.
+☛ Ensured optimal performance, quality, and responsiveness of applications,
+maintaining a 99% uptime rate.
+☛ Created comprehensive handbooks and technical documents outlining
+application design and code, leading to a 90% reduction in support tickets and
+requests.
+☛Managed various application activities, including patching and migration,
+ensuring a 100% secure and up-to-date application environment.
+Accenture
+Business Intelligence Analyst
+April 2022 - September 2022 (6 months)
+Chennai, Tamil Nadu, India
+☛Designed internal business dashboards to monitor deal pipeline activities
+and RFP turnaround times, improving win-rate tracking by 25%.
+☛Automated recurring pricing impact reports using Python and Power BI,
+reducing turnaround time from 2 days to 4 hours.
+☛Developed pricing summary visualizations and strategic inputs for cost
+modeling, supporting executive pricing decisions.
+☛Integrated Jira/ServiceNow data sources for unified pricing feedback reports
+with 95% accuracy.
+☛Created Power BI dashboards to track operational KPIs, improving visibility
+for leadership
+Page 8 of 18
+☛Collaborated with global teams to deliver SLA-bound pricing projections and
+deal support
+LTIMindtree
+Business Intelligent Analyst
+December 2021 - April 2022 (5 months)
+Chennai, Tamil Nadu, India
+☛Developed and maintained Power BI dashboards for IT asset tracking and
+reporting, enhancing visibility and decision-making.
+☛Automated data extraction workflows using Python and SQL, reducing
+manual reporting effort by 50%.
+☛Conducted asset audits and inventory control, ensuring accuracy and
+compliance with SACM standards.
+☛Collaborated with cross-functional teams to implement ITIL practices for
+asset lifecycle management.
+☛Ensured data accuracy, consistency, and reliability across all asset reports
+through validation techniques
+Cognizant
+Data Analyst
+August 2021 - December 2021 (5 months)
+Chennai, Tamil Nadu, India
+☛Designed and managed data transformation processes for marketing and
+sales operations, ensuring compliance with AWS data governance policies.
+☛Built SQL automation scripts to handle data ingestion and validation tasks,
+reducing manual effort by 50%.
+☛Analyzed customer behavior data, enabling data-driven recommendations
+that increased campaign efficiency by 15%.
+☛Developed Python-based data processing scripts to clean and validate raw
+datasets before integration into BI platforms.
+Tata Consultancy Servicess
+Quality Analyst Intern
+March 2021 - August 2021 (6 months)
+Kochi, Kerala, India
+☛ Conducted 100+ test cases across multiple projects, systematically testing
+software functionality and performance.
+☛ Identified and resolved 95% of critical software bugs before deployment,
+ensuring smooth product releases.
+Page 9 of 18
+☛ Reduced post-deployment issues, improving customer experience and
+system reliability.
+☛ Implemented enhanced testing protocols and introduced automation tools
+into the testing pipeline.
+☛ Improved software quality and reduced manual testing effort.
+☛ Lowered the product defect rate by 20%, leading to higher customer
+satisfaction and fewer bug fixes post-launch.
+☛ Designed and executed 10+ performance tests, evaluating system speed,
+scalability, and responsiveness.
+☛ Optimized system performance and efficiency, ensuring the software could
+handle expected workloads.
+☛ Improved system efficiency by 15%, reducing lag times and enhancing user
+experience.
+☛ Streamlined quality assurance (QA) processes by automating repetitive
+testing tasks and improving documentation.
+☛ Reduced manual effort in testing cycles, allowing testers to focus on highpriority test cases.
+☛ Cut manual testing time by 30 hours per month, increasing overall
+productivity and efficiency.
+☛ Collaborated with developers and stakeholders to resolve issues reported
+during testing phases.
+☛ Ensured faster turnaround on reported defects, keeping projects on
+schedule.
+☛ Addressed 75+ reported issues, achieving a 98% resolution rate within
+deadlines.
+☛ Prepared comprehensive testing reports across 5+ project cycles, ensuring
+thorough documentation of testing outcomes.
+☛ Provided transparency in testing processes, ensuring adherence to industry
+regulations and internal policies.
+☛ Maintained 100% compliance with company and industry standards,
+avoiding regulatory issues.
+Infosys
+Support Analyst Intern
+October 2020 - March 2021 (6 months)
+Hyderabad, Telangana, India
+☛ Resolved 85%+ of support tickets within Service Level Agreements (SLA)
+by troubleshooting technical issues efficiently.
+☛ Reduced backlog and improved customer response time, ensuring
+seamless issue resolution.
+Page 10 of 18
+☛ Cut average resolution time by 25%, significantly enhancing customer
+satisfaction and service quality.☛ Automated 15+ repetitive tasks, streamlining
+workflows and eliminating manual efforts.
+☛ Increased team efficiency by reducing time spent on routine processes.
+☛ Saved 10+ hours per week, allowing the team to focus on higher-value
+projects.
+☛ Conducted data analysis on support trends, identifying recurring issues and
+root causes.
+☛ Pinpointed three key areas for improvement, leading to proactive issue
+resolution.
+☛ Reduced recurring support issues by 15%, improving system stability and
+user experience.
+☛ Provided technical assistance to 500+ clients, offering troubleshooting and
+real-time guidance.
+☛ Resolved technical concerns quickly, ensuring minimal disruption to client
+operations.
+☛ Achieved a 97% positive feedback rating, strengthening customer trust and
+loyalty.
+☛ Developed and delivered training materials for two new software tools,
+ensuring seamless adoption.
+☛ Enabled employees to quickly learn new tools, reducing dependency on
+support teams.
+☛ Shortened onboarding time by 30%, boosting overall team proficiency and
+productivity.
+☛ Collaborated with cross-functional teams to implement four system
+upgrades, optimizing performance.
+☛ Ensured smooth transitions with minimal business impact during system
+changes.
+☛ Reduced downtime by 40%, improving system reliability and user
+experience.
+Tech Mahindra
+System Analyst Intern
+June 2020 - October 2020 (5 months)
+Kolkata, West Bengal, India
+☛ Conducted requirements gathering for 5+ client projects, collaborating with
+stakeholders to define business and technical needs.
+☛ Ensured clear communication between business teams and developers,
+minimizing project scope changes.
+Page 11 of 18
+☛ Achieved 100% alignment between client needs and technical deliverables,
+reducing rework and improving project efficiency.
+☛ Analyzed and optimized system workflows, identifying inefficiencies and
+implementing process improvements.
+☛ Streamlined operations across departments, reducing redundancies in
+manual workflows.
+☛ Improved process efficiency by 20%, saving 30+ hours per week across
+teams.
+☛ Developed and maintained SQL-based reports to track system performance
+and identify potential issues.
+☛ Provided real-time insights, enabling proactive issue detection and faster
+troubleshooting.
+☛ Reduced system downtimes by 15%, leading to 25% faster issue resolution
+and improved system reliability.
+☛ Spearheaded the integration of 2+ new software tools, automating manual
+data entry processes.
+☛ Eliminated manual data entry errors and streamlined workflow automation.
+☛ Reduced manual entry by 40%, increasing overall system accuracy and
+reducing processing time.
+☛ Led user acceptance testing (UAT) for system updates, ensuring thorough
+validation before deployment.
+☛ Identified and addressed critical issues early, ensuring smooth system
+rollouts.
+☛ Achieved 99% successful execution of test cases, meeting all business
+requirements and improving software reliability.
+☛ Created and documented 3+ technical specifications and system workflows,
+providing structured knowledge for new team members.
+☛ Simplified onboarding and reduced dependency on senior team members
+for training.
+☛ Decreased project onboarding time by 25%, accelerating team readiness
+and knowledge transfer.
+HCLTech
+Analyst Intern
+February 2020 - June 2020 (5 months)
+Madurai, Tamil Nadu, India
+☛ Improved data accuracy by 25% by implementing data cleaning, validation
+techniques, and optimizing data pipelines.
+☛ Enhanced the quality and reliability of data used in reporting and business
+intelligence.
+Page 12 of 18
+☛ Delivered higher-quality insights, reducing data discrepancies across
+multiple client projects.
+☛ Conducted trend analysis on customer behavior, utilizing advanced
+analytics techniques.
+☛ Provided data-driven insights that helped refine marketing strategies for
+better audience targeting.
+☛ Boosted marketing campaign effectiveness by 15%, increasing customer
+engagement and conversions.
+☛ Developed and automated data processing scripts using Python and SQL,
+eliminating manual workflows.
+☛ Reduced the time spent on repetitive data processing tasks, enabling
+teams to focus on high-value analysis.
+Cut processing time for weekly reports by 30%, leading to faster insights and
+decision-making.
+☛ Designed and deployed interactive dashboards in Power BI, visualizing key
+business metrics.
+☛ Enabled real-time data tracking and facilitated faster decision-making for
+stakeholders.
+☛ Reduced decision-making time by 20%, improving operational efficiency
+and strategic planning.
+☛ Led the migration of 3 TB of legacy data to the cloud, ensuring smooth and
+error-free execution.
+☛ Modernized the data infrastructure, improving scalability, accessibility, and
+security.
+☛ Maintained 100% data integrity and achieved zero downtime during the
+transition.
+☛ Worked closely with cross-functional teams to analyze and improve
+business processes.
+☛ Identified inefficiencies, streamlined workflows, and implemented costsaving measures.
+☛ Achieved a 10% reduction in operational costs, enhancing overall efficiency
+and resource utilization.
+Aauraa Home Fashion
+6 months
+Senior Merchandiser
+November 2019 - February 2020 (4 months)
+Karur, Tamil Nadu, India
+Page 13 of 18
+☛ Developed and implemented merchandising strategies aligned with
+company goals and market trends.
+☛ Optimized product placement, pricing, and promotions to increase sales
+and profitability.
+☛ Boosted sales performance while ensuring higher inventory turnover and
+cost efficiency.
+☛ Managed product assortments and conducted in-depth sales data analysis
+to identify trends.
+☛ Enabled data-driven decision-making for stock optimization and promotional
+strategies.
+☛ Provided actionable insights that influenced merchandising decisions and
+product placements.
+☛ Optimized product positioning, leading to better customer engagement and
+increased revenue.
+☛ Worked closely with buying, marketing, and operations teams to ensure
+cohesive execution of merchandising plans.
+☛ Aligned business functions to create consistent and effective retail
+experiences.
+☛ Strengthened brand identity and customer experience, driving higher
+conversion rates.
+☛ Managed relationships with key suppliers to ensure product availability,
+quality, and cost control.
+☛ Secured better pricing and reliable supply chains, reducing stock
+shortages.
+☛ Maintained high product availability, improving customer satisfaction and
+sales stability.
+☛ Monitored inventory levels, identifying inefficiencies and implementing costsaving measures.
+☛ Reduced stockouts and minimized excess inventory, ensuring optimal
+product flow.
+☛ Decreased inventory costs while improving turnover rates and cash flow
+efficiency.
+☛ Trained and guided junior merchandising staff, enhancing their skills in
+product selection, pricing, and analysis.
+☛ Increased team competency, leading to faster decision-making and
+improved merchandising execution.
+☛ Strengthened team performance, reducing errors and improving
+merchandising consistency.
+☛ Led cross-functional teams on special merchandising projects, aligning
+strategies across departments.
+Page 14 of 18
+Junior Merchandiser
+September 2019 - November 2019 (3 months)
+Karur, Tamil Nadu, India
+☛ Developed and executed effective merchandising strategies, optimizing
+product placement and promotions.
+☛ Enhanced product visibility, drove customer engagement, and encouraged
+higher-value purchases.
+☛ Increased sales by 10% and profitability by 5%, strengthening overall
+business performance.
+☛ Implemented data-driven inventory tracking systems, ensuring product
+availability and accuracy.
+☛ Reduced stock discrepancies and optimized stock turnover rates.
+☛ Maintained a 99% product accuracy rate and a 98% inventory accuracy
+rate, minimizing stockouts and overstock issues.
+☛ Managed and improved vendor relationships and supply chain processes,
+ensuring timely and accurate deliveries.
+☛ Streamlined logistics and resolved supply chain bottlenecks to maintain
+consistent stock levels.
+☛ Achieved a 95% vendor delivery performance rate and resolved 90% of
+supply chain issues, ensuring smooth operations.
+☛ Optimized product assortment based on customer preferences and market
+trends.
+☛ Designed and executed promotional events and strategic campaigns to
+attract new customers.
+☛ Drove higher foot traffic and encouraged repeat purchases through
+engaging offers.
+☛ Generated $10,000 in additional revenue and attracted 500 new customers,
+expanding market reach.
+☛ Conducted competitor activity monitoring and market research to identify
+new product opportunities.
+☛ Provided insights to refine pricing strategies, improve product offerings, and
+stay ahead in the market.
+☛ Identified trending products and emerging market gaps, contributing to
+innovative merchandising decisions.
+☛ Developed accurate sales forecasts and budget plans, aligning strategies
+with business goals.
+☛ Ensured that resources were allocated effectively to maximize revenue.
+☛ Met or exceeded sales forecasts and budgets, achieving a $500,000 sales
+target.
+Page 15 of 18
+Momentive
+Project Engineering Intern
+May 2019 - September 2019 (5 months)
+Bengaluru, Karnataka, India
+☛ Planned, executed, and completed 15+ projects, ensuring adherence to
+deadlines and budget constraints.
+☛ Maintained strong project management practices, minimizing scope creep
+and optimizing resources.
+☛ Achieved a 98% on-time and within-budget delivery rate, improving overall
+project success.
+☛ Managed and coordinated 10+ team members and 5 third-party contractors,
+aligning resources effectively.
+☛ Fostered cross-team collaboration and streamlined workflows, enhancing
+operational efficiency.
+☛ Increased project efficiency by 30%, ensuring smooth execution and faster
+completion.
+☛ Developed clear project scopes and objectives, actively engaging
+stakeholders from project initiation to completion.
+☛ Improved clarity in expectations, reducing misunderstandings and ensuring
+stakeholder buy-in.
+☛ Enhanced stakeholder alignment by 20%, leading to smoother project
+execution and approvals.
+☛ Allocated resources across multiple projects, maintaining comprehensive
+documentation and tracking.
+☛ Reduced resource conflicts and optimized workload distribution, ensuring
+efficient project execution.
+☛ Lowered resource allocation conflicts by 25%, while improving project
+traceability and reporting.
+☛ Implemented proactive risk management strategies, identifying and
+mitigating project risks early.
+☛ Minimized unforeseen disruptions, ensuring contingency plans were in
+place to address potential bottlenecks.
+☛ Reduced project delays by 40%, increasing overall reliability and
+predictability of project timelines.
+☛ Built and maintained strong relationships with 15+ clients, stakeholders, and
+vendors through transparent communication.
+☛ Strengthened trust and collaboration, leading to more effective negotiations
+and stakeholder engagement.
+☛ Increased stakeholder satisfaction by 30%, improving long-term business
+relationships and project outcomes.
+Page 16 of 18
+Mallow Technologies Private Limited
+Project Intern
+March 2019 - May 2019 (3 months)
+Karur, Tamil Nadu, India
+☛ Assisted in the planning, execution, and monitoring of 10+ projects,
+ensuring smooth workflow and milestone tracking.
+☛ Maintained clear project timelines, identified risks early, and ensured
+prompt resolution of bottlenecks.
+☛ Contributed to a 90% on-time project completion rate, enhancing overall
+project efficiency.
+☛ Conducted in-depth research and data collection to support project
+objectives and scope definition.
+☛ Provided insightful recommendations, reducing scope misalignment and
+unnecessary revisions.
+☛ Improved project scope accuracy by 25%, minimizing project scope creep
+and execution delays.
+☛ Prepared 20+ detailed reports and presentations, summarizing key project
+insights and progress.
+☛ Improved stakeholder visibility into project status and challenges, enabling
+informed decision-making.
+☛ Increased report clarity and decision-making efficiency by 35%, ensuring
+alignment with business goals.
+☛ Worked with 5+ project managers and cross-functional teams, facilitating
+clear communication of goals and expectations.
+☛ Reduced miscommunication and misalignment, ensuring smoother project
+execution.
+☛ Achieved a 20% reduction in communication delays, accelerating project
+progress and alignment.
+Indium Software
+Intern
+January 2019 - March 2019 (3 months)
+Coimbatore, Tamil Nadu, India
+☛ Supported the planning, execution, and management of 10+ projects,
+ensuring smooth coordination of tasks, timelines, and resources.
+☛ Maintained clear project roadmaps, aligned team priorities, and mitigated
+risks proactively.
+☛ Contributed to a 95% project completion rate, improving overall efficiency
+and on-time delivery.
+Page 17 of 18
+☛ Gathered and analyzed data from multiple sources, providing insights to
+optimize project strategies.
+☛ Enabled leadership to make data-driven decisions, reducing uncertainty in
+project planning.
+☛ Improved decision accuracy by 30%, enhancing project scope definition
+and risk management.
+☛ Created and delivered 25+ detailed reports and presentations, summarizing
+project progress and key findings.
+☛ Provided clear, concise insights for stakeholders, ensuring alignment and
+transparency.
+☛ Enhanced team collaboration and executive decision-making, improving
+response times and strategy execution.
+☛ Monitored project metrics and key performance indicators (KPIs) to track
+project health and identify bottlenecks.
+☛ Flagged potential risks early, allowing teams to implement corrective actions
+proactively.
+☛ Achieved a 20% improvement in project efficiency, reducing delays and
+enhancing resource utilization.
+☛ Managed scheduling, organized project files, and streamlined
+communication between cross-functional teams.
+☛ Reduced administrative bottlenecks, allowing teams to focus on high-value
+tasks.
+☛ Achieved a 40% reduction in administrative turnaround time, improving
+project workflow and response efficiency.
+Education
+M.KUMARASAMY COLLEGE OF ENGINEERING, KARUR
+Bachelor of Engineering, Computer Science
+Page 18 of 18

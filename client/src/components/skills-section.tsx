@@ -1,29 +1,49 @@
-import { BarChart, Settings, Briefcase } from "lucide-react";
+import { BarChart, Settings, Briefcase, Database, Cloud, Code } from "lucide-react";
 
 export default function SkillsSection() {
   const skillCategories = [
     {
-      title: "Data & Analytics",
+      title: "Top Skills",
       icon: BarChart,
       color: "primary",
       skills: [
         { name: "Data Transformation", level: 100 },
         { name: "Data Visualization", level: 100 },
-        { name: "Predictive Analytics", level: 80 },
-        { name: "Statistical Modeling", level: 80 },
+        { name: "Predictive Analytics", level: 95 },
+        { name: "Statistical Modeling", level: 90 },
+        { name: "Business Intelligence", level: 95 },
+        { name: "ETL Development", level: 90 },
       ],
     },
     {
-      title: "Technical Tools",
+      title: "BI & Analytics Tools",
       icon: Settings,
       color: "secondary",
       tools: [
-        "Power BI", "SQL", "Python", "AWS Glue", "Snowflake", 
-        "Tableau", "Excel VBA", "QuickSight"
+        "Power BI", "Tableau", "QuickSight", "Excel VBA", "Power Query",
+        "Google Analytics", "SQLYOG", "Jira", "ServiceNow"
       ],
     },
     {
-      title: "Business Skills",
+      title: "Programming & Databases",
+      icon: Database,
+      color: "accent",
+      tools: [
+        "SQL", "Python", "Java", "Spring Framework", "Jenkins",
+        "WinCVS", "Data Modeling", "Database Optimization"
+      ],
+    },
+    {
+      title: "Cloud & Data Platforms",
+      icon: Cloud,
+      color: "info",
+      tools: [
+        "AWS", "AWS Glue", "Snowflake", "Data Pipelines",
+        "Cloud Migration", "ETL Workflows", "Data Warehousing"
+      ],
+    },
+    {
+      title: "Business & Domain Skills",
       icon: Briefcase,
       color: "success",
       businessSkills: [
@@ -31,8 +51,32 @@ export default function SkillsSection() {
         "KPI Reporting", 
         "Agile Methodology",
         "UAT & Testing",
-        "ServiceNow",
         "BFSI Domain",
+        "Project Management",
+        "Stakeholder Management",
+        "Requirements Gathering",
+        "Business Process Analysis",
+        "Data Governance",
+        "Compliance Management",
+        "ITIL Practices",
+        "SACM Standards",
+      ],
+    },
+    {
+      title: "Certifications & Awards",
+      icon: Code,
+      color: "warning",
+      certifications: [
+        "AWS Cloud Essentials for Business Leaders",
+        "Google Analytics Certification",
+        "GEN AI Fundamentals",
+        "Digital Garage Certificate",
+        "Walmart USA - Advanced Software Engineering Job Simulation",
+        "Bravo Awards",
+        "Rising Star Awards",
+        "Pat on the Back Awards",
+        "Spirit of Wipro Award",
+        "Rookie Rising Star",
       ],
     },
   ];
@@ -107,6 +151,20 @@ export default function SkillsSection() {
                       </li>
                     ))}
                   </ul>
+                )}
+
+                {/* Certifications */}
+                {category.certifications && (
+                  <div className="space-y-2">
+                    {category.certifications.map((cert, certIndex) => (
+                      <div key={certIndex} className="flex items-start gap-2">
+                        <svg className="w-4 h-4 text-warning mt-0.5 flex-shrink-0" fill="currentColor" viewBox="0 0 20 20">
+                          <path fillRule="evenodd" d="M6.267 3.455a3.066 3.066 0 001.745-.723 3.066 3.066 0 013.976 0 3.066 3.066 0 001.745.723 3.066 3.066 0 012.812 2.812c.051.643.304 1.254.723 1.745a3.066 3.066 0 010 3.976 3.066 3.066 0 00-.723 1.745 3.066 3.066 0 01-2.812 2.812 3.066 3.066 0 00-1.745.723 3.066 3.066 0 01-3.976 0 3.066 3.066 0 00-1.745-.723 3.066 3.066 0 01-2.812-2.812 3.066 3.066 0 00-.723-1.745 3.066 3.066 0 010-3.976 3.066 3.066 0 00.723-1.745 3.066 3.066 0 012.812-2.812zm7.44 5.252a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
+                        </svg>
+                        <span className="text-sm text-slate-700">{cert}</span>
+                      </div>
+                    ))}
+                  </div>
                 )}
               </div>
             );
